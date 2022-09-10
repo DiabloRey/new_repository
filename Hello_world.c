@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
   printf("Hello world!");
+  printf("New 1 commit added");
+  
+  return 0;
 }
